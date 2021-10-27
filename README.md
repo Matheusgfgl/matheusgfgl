@@ -1,9 +1,10 @@
 ## Hi there i'm Matheus Goncalves, Frontend Web Leader at InPeace App and Frontend Web Developer at Uppersoft!
 
-# Bacharel em Ciência da Computação pela Universidade Federal de Ouro preto.
-# Experiência em JavaScript (ES6, ES7), jQuery., HTML 5, Css3, Saas, Vue e GIT. 
-# Experiência em desenvolvimento de software em Vue.js (Vuex, Vue Router, Vue CLI e UI), utilizando CSS3 e # Pré-Processadores (SASS/LESS) e Integração com API's RESTful.
-# Conhecimentos em C++, node.js, react.
+### Bacharel em Ciência da Computação pela Universidade Federal de Ouro preto.
+### Experiência em JavaScript (ES6, ES7), jQuery., HTML 5, Css3, Saas, Vue e GIT. 
+### Experiência em desenvolvimento de software em Vue.js (Vuex, Vue Router, Vue CLI e UI), utilizando CSS3 e Pré-Processadores (SASS/LESS) e Integração com API's RESTful.
+### Conhecimentos em C++, node.js, react.
+
 
 
 <div align="center">
