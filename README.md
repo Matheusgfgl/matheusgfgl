@@ -18,8 +18,7 @@
   <img align="center" alt="matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="matheus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="matheus-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="matheus-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
  
