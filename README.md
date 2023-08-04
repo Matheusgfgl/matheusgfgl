@@ -1,4 +1,4 @@
-## Hi there i'm Matheus Goncalves, Frontend Web Leader at InPeace App and Frontend Web Developer at Uppersoft!
+## Hi there i'm Matheus Goncalves, Senior Frontend Web Developer at Usabit Global!
  
 #### Brazilian, 26 years old with bachalor degree in Computer Science, currently working as a FrontEnd Web Leader. Technology and scalable web application development lover. Motivation to achieve goals, facility to teach and to help my team.
 
