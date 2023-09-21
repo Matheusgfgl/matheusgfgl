@@ -1,10 +1,11 @@
-## Hi there i'm Matheus Goncalves, Senior Frontend Web Developer at Usabit Global!
+## Hi there I'm Matheus Goncalves and I'm creating the future at Exitlag | Typescript | Vue.js | Atlassian | Aws | Azurel!
  
-#### Brazilian, 26 years old with bachalor degree in Computer Science, currently working as a FrontEnd Web Leader. Technology and scalable web application development lover. Motivation to achieve goals, facility to teach and to help my team.
+#### Brazilian, 27 years old, Bachelor's degree in Computer Science, currently working as a Senior FrontEnd Developer. Technology and scalable web application development lover. Motivation to achieve goals, facility to teach, and to help my team.
 
-#### Experiencie with JavaScript (ES6, ES7), jQuery., HTML 5, Css3, Saas, Vue e GIT, Vue.js (Vuex, Vue Router, Vue CLI e UI), CSS3 e and API's RESTful integration.
+#### As a frontend leader, I hired, onboarded, and trained a team of 8 developers.
+#### Passionate about building scalable applications in order to solve real and complex problems, motivation to achieve goals, and facility to teach and help teammates.
 
-
+#### Experience with Typescript, JavaScript (ES6, ES7), Vue.js 2 and 3, HTML 5, Css3, Saas, Vue e GIT, (Vuex, Vue Router, Vue CLI e UI), AWS, Azure, and APIs RESTful integration.
 
 <div align="center">
   <a href="https://github.com/Matheusgfgl">
